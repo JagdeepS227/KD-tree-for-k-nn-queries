@@ -3,6 +3,7 @@ Knn query: Given a query point q (x and y coordinate) and a value of k, retrieve
 
 
 Some Specifications followed for the KD-tree implementation :
+
 (1) Data structures for root, internal nodes and leaves be clearly defined. Internal nodes stores the
 following: 
 (a) line used to split, (b) pointer to a left and right child, (c) if the current node is a left or a right child
